@@ -8,6 +8,10 @@
 2. 使用內部 tomcat:
    1. 記得更新 pom.xml 中的 tomcat7 plugin版號為2.2，避免Unable to compile class for JSP
    2. 執行 mvn:tomcat7:run 即可使用內部tomcat將專案帶起
+3. 測試URL
+   1. http://localhost:8080/Roger-Maven-Servlet3/hello
+   2. http://localhost:8080/Roger-Maven-Servlet3/index.jsp
+
 
 # 參考資料
 | #   | 說明                                                                                        | 網址                                                                                    |
